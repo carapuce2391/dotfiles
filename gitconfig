@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = firoud_l@etna-alternance.net
+	name = Lyna FIROUD
